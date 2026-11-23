@@ -44,6 +44,13 @@ I enjoy building applications, solving problems and continuously improving my pr
 </p>
 
 
+
+## 📈 Contribution Graph
+
+[![Svanholmmm's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Svanholmmm&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Svanholmmm)
+
+
+
 ## 🚀 Featured Projects
 
 ### KinoBackend
