@@ -33,6 +33,17 @@ I enjoy building applications, solving problems and continuously improving my pr
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mads-svanholm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mads-svanholm&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ## 🚀 Featured Projects
 
 ### KinoBackend
